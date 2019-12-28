@@ -35,7 +35,7 @@ I took the mean of only 3 measurements for each race, since the results were alw
 | **2**    | 109.59 | 109.65 | 109.64 | 109.57 | 92.86  | 213.46 | 135.08  | 128.55 |
 | **3**    | 109.51 | 109.59 | 109.60 | 109.54 | 92.83  | 213.53 | 135.07  | 128.68 |
 
-Because the first four races are so extremely close, I pooled their results when calculating the mean and derived values (see summary above). It would be silly to say that Humans are 99.91% as fast as Slugs.
+Because the first four races are so extremely close, I pooled their results when calculating the mean and derived values (see summary above). It would be silly to say that Slugs are 99.91% as fast as Humans.
 
 |               | Human, Engi, Slug, Zoltan | Mantis  | Rock     | Crystal  | Lanius   |
 |:-------------:|:-------------------------:|:-------:|:--------:|:--------:|:--------:|
