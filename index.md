@@ -39,9 +39,9 @@ Because the first four races are so extremely close, I pooled their results when
 
 Markdown errors?
 
-|               | Human  Engi  Slug Zoltan | Mantis  | Rock     | Crystal  | Lanius   |
-|:-------------:|:-------------------------------:|:-------:|:--------:|:------- :|:--------:|
-| **Mean time** | 109.5675                        | 92.8433 | 213.4433 | 135.0767 | 128.5367 |
+|               | Human Engi Slug Zoltan | Mantis | Rock    | Crystal  | Lanius  |
+|:-------------:|:----------------------:|:-------:|:--------:|:-------:|:--------:|
+| **Mean time** | 109.5675               | 92.8433 | 213.4433 | 135.0767 | 128.5367 |
 
 ### Time with Mantis Pheromones
 
