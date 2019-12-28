@@ -4,6 +4,8 @@
 
 The in-game descriptions are not quite accurate. Rocks and Crystals are slightly faster than expected, Mantis slightly slower.
 
+Mantis Pheromones has slightly less effect than advertised. It says 25% faster, but it's actually 23% faster.
+
 |         | Speed vs. human | Seconds per tile | Tiles per second |
 |---------|:---------------:|:----------------:|:----------------:|
 | Human   | 1               | 0.46             | 2.19             |
@@ -14,8 +16,6 @@ The in-game descriptions are not quite accurate. Rocks and Crystals are slightly
 | Rock    | 0.51            | 0.89             | 1.12             |
 | Crystal | 0.81            | 0.56             | 1.78             |
 | Lanius  | 0.85            | 0.53             | 1.86             |
-
-Mantis Pheromones has slightly less effect than advertised. It says 25% faster, but it's actually 23% faster.
 
 ## Method of testing
 
