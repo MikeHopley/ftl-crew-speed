@@ -37,8 +37,6 @@ Because the first four races are so extremely close, I pooled their results when
 | **2**    | 109.59 | 109.65 | 109.64 | 109.57 | 92.86  | 213.46 | 135.08  | 128.55 |
 | **3**    | 109.51 | 109.59 | 109.60 | 109.54 | 92.83  | 213.53 | 135.07  | 128.68 |
 
-Markdown errors?
-
 |               | Human, Engi, Slug, Zoltan | Mantis  | Rock     | Crystal  | Lanius   |
 |:-------------:|:-------------------------:|:-------:|:--------:|:--------:|:--------:|
 | **Mean time** | 109.5675                  | 92.8433 | 213.4433 | 135.0767 | 128.5367 |
