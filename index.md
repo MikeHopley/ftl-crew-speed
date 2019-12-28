@@ -27,7 +27,7 @@ I took the mean of only 3 measurements for each race, since the results were alw
 
 ## Full test data
 
-### Time to complete 10 laps of 24 tiles, without Mantis Pheromones
+### Time for 240 tiles, without Mantis Pheromones
 
 Because the first four races are so extremely close, I pooled their results when calculating the summary. It would be silly to say that Humans are 99.91% as fast as Slugs.
 
@@ -37,9 +37,9 @@ Because the first four races are so extremely close, I pooled their results when
 | **2**    | 109.59 | 109.65 | 109.64 | 109.57 | 92.86  | 213.46 | 135.08  | 128.55 |
 | **3**    | 109.51 | 109.59 | 109.60 | 109.54 | 92.83  | 213.53 | 135.07  | 128.68 |
 
-|               | Human / Engi / Slug / Zoltan | Mantis  | Rock     | Crystal  | Lanius   |
-|:-------------:|:----------------------------:|:-------:|:--------:|:------- :|:--------:|
-| **Mean time** | 109.5675                     | 92.8433 | 213.4433 | 135.0767 | 128.5367 |
+|               | Human \/ Engi \/ Slug \/ Zoltan | Mantis  | Rock     | Crystal  | Lanius   |
+|:-------------:|:-------------------------------:|:-------:|:--------:|:------- :|:--------:|
+| **Mean time** | 109.5675                        | 92.8433 | 213.4433 | 135.0767 | 128.5367 |
 
 ### Time with Mantis Pheromones
 
