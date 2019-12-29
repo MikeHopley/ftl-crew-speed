@@ -60,7 +60,7 @@ I recorded these on video. These tests used custom layouts and Humans only (no P
 |---------------------------------------------------------|-----------------|--------------|------------------|
 | Horizontal movement with few doors or direction changes | 149             | 65.45, 65.48 | 2.28             |
 | As above, but with lots of doors                        | 149             | 68.08, 67.79 | 2.19             |
-| As above, but with the doors open                       | 149             |              |                  |
+| As above, but with the doors open                       | 149             | 68.08, 67.96 | 2.19             |
 | "Maze" with constant changes of direction (and doors)   | 149             | 68.50, 68.54 | 2.17             |
 | Vertical movement with few doors or direction changes   | 149             | 65.46, 65.68 | 2.27             |
 | "Diagonal" movement across square rooms                 | 71.43*          | 32.15, 32.22 | 2.22             |
