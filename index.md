@@ -40,7 +40,7 @@ I took the mean of only 3 measurements for each race, since the results were alw
 | **2**    | 109.59 | 109.65 | 109.64 | 109.57 | 92.86  | 213.46 | 135.08  | 128.55 |
 | **3**    | 109.51 | 109.59 | 109.60 | 109.54 | 92.83  | 213.53 | 135.07  | 128.68 |
 
-Because the first four races are so extremely close, I pooled their results when calculating the mean and derived values (see summary above). It would be silly to say that Slugs are 99.91% as fast as Humans.
+Because the first four races are so extremely close, I pooled their results when calculating the mean and derived values. It would be silly to say that Slugs are 99.91% as fast as Humans.
 
 |               | Human, Engi, Slug, Zoltan | Mantis  | Rock     | Crystal  | Lanius   |
 |:-------------:|:-------------------------:|:-------:|:--------:|:--------:|:--------:|
@@ -69,4 +69,4 @@ I recorded these on video. These tests used custom layouts and human crew only (
 | "Diagonal" movement across square rooms                 | 71.43*          | 32.15 | 2.22             |
 | (In reverse)                                            | 71.43*          | 32.22 | 2.22             |
 
-* 30 diagonal movements and 29 straight movements. A diagonal movement *should* be √2 tiles distance (about 1.41).
+\* 30 diagonal movements and 29 straight movements. A diagonal movement *should* be √2 tiles distance (about 1.41).
