@@ -54,21 +54,15 @@ For Mantis Pheromones, I only did 3 tests with a Human:
 
 ### "Synthetic" tests
 
-I recorded these on video. These tests used custom layouts and human crew only (no Pheromones). Each scenario was tested twice: once in each direction.
+I recorded these on video. These tests used custom layouts and human crew only (no Pheromones). Each scenario was tested twice (once in each direction).
 
-| Description                                             | Number of tiles | Time  | Tiles per second |
-|---------------------------------------------------------|-----------------|-------|------------------|
-| Horizontal movement with few doors or direction changes | 149             | 65.45 | 2.28             |
-| (In reverse)                                            | 149             | 65.48 | 2.28             |
-| As above, but with lots of doors                        | 149             | 68.08 | 2.19             |
-| (In reverse)                                            | 149             | 67.79 | 2.20             |
-| As above, but with the doors open                       | 149             |       |                  |
-| (In reverse)                                            | 149             |       |                  |
-| "Maze" with constant changes of direction (and doors)   | 149             | 68.50 | 2.18             |
-| (In reverse)                                            | 149             | 68.54 | 2.17             |
-| Vertical movement with few doors or direction changes   | 149             | 65.46 | 2.27             |
-| (In reverse)                                            | 149             | 65.68 | 2.27             |
-| "Diagonal" movement across square rooms                 | 71.43*          | 32.15 | 2.22             |
-| (In reverse)                                            | 71.43*          | 32.22 | 2.22             |
+| Description                                             | Number of tiles | Time         | Tiles per second |
+|---------------------------------------------------------|-----------------|--------------|------------------|
+| Horizontal movement with few doors or direction changes | 149             | 65.45, 65.48 | 2.28             |
+| As above, but with lots of doors                        | 149             | 68.08, 67.79 | 2.19             |
+| As above, but with the doors open                       | 149             |              |                  |
+| "Maze" with constant changes of direction (and doors)   | 149             | 68.50, 68.54 | 2.17             |
+| Vertical movement with few doors or direction changes   | 149             | 65.46, 65.68 | 2.27             |
+| "Diagonal" movement across square rooms                 | 71.43*          | 32.15, 32.22 | 2.22             |
 
 \* 30 diagonal movements and 29 straight movements. A diagonal movement *should* be √2 tiles distance (about 1.41).
