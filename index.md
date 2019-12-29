@@ -4,10 +4,10 @@
 
 Crew are slowed slightly by doors (open or closed). To an even smaller extent, they appear to be slowed by changes in direction. Here are the speeds for a Human:
 
-|             | Description                  | Tiles per second | Seconds per tile |
-|:-----------:|:----------------------------:|:----------------:|:----------------:|
-| **Fastest** | Straight lines, few doors | 2.28             | 0.439            |
-| **Slowest** | A maze of doors              | 2.17             | 0.460            | 
+|             | Description     | Tiles per second | Seconds per tile |
+|:-----------:|:---------------:|:----------------:|:----------------:|
+| **Fastest** | No doors        | 2.28             | 0.439            |
+| **Slowest** | A maze of doors | 2.17             | 0.460            | 
 
 Possibly as a result of this, the game's description of crew speeds (and Mantis Pheromones) are not quite accurate in "real-world" conditions. The following times are from tests running around the Mantis C:
 
@@ -63,6 +63,7 @@ I recorded these on video. These tests used custom layouts and Humans only (no P
 | As above, but with the doors open                       | 149             | 68.08, 67.96 | 2.19             |
 | "Maze" with constant changes of direction (and doors)   | 149             | 68.50, 68.54 | 2.17             |
 | Vertical movement with few doors or direction changes   | 149             | 65.46, 65.68 | 2.27             |
+| Pure diagonal movement, no doors                        | 12.73           | 5.60, 5.55   | 2.28             |
 | "Diagonal" movement across square rooms                 | 71.43*          | 32.15, 32.22 | 2.22             |
 
 \* 30 diagonal movements and 29 straight movements. A diagonal movement *should* be √2 tiles distance (about 1.41).
