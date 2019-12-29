@@ -5,7 +5,7 @@
 Crew are slowed slightly by doors. To an even smaller extent, they appear to be slowed by changes in direction. Here are the speeds for a Human:
 
 |             | Description                  | Tiles per second | Seconds per tile |
-|:-----------:|:----------------------------:|:--------------  :|:----------------:|
+|:-----------:|:----------------------------:|:----------------:|:----------------:|
 | **Fastest** | Straight lines and few doors | 2.28             | 0.439            |
 | **Slowest** | A maze of doors              | 2.17             | 0.460            | 
 
