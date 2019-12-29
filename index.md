@@ -48,3 +48,23 @@ I only tested this with a Human.
 | 1     | 2     | 3     | Mean    |
 |:-----:|:-----:|:-----:|:-------:|
 | 89.08 | 88.97 | 89.15 | 89.0667 |
+
+## Additional tests
+
+Crew speed varies depending on the path they are taking. They are slowed down slightly by doors.
+
+The following tests all used human crew only (no Pheromones). They are recorded on video.
+
+| Description                                             | Number of tiles | Time  | Tiles per second |
+|---------------------------------------------------------|-----------------|-------|------------------|
+| Horizontal movement with few doors or direction changes | 149             | 65.45 | 2.28             |
+| As above, but with lots of doors                        | 149             | 68.08 | 2.19             |
+| As above, in reverse                                    | 149             | 67.79 | 2.20             |
+| "Maze" with constant changes of direction (and doors)   | 149             | 68.50 | 2.18             |
+| As above, in reverse                                    | 149             | 68.54 | 2.17             |
+| Vertical movement with few doors or direction changes   | 149             | 65.46 | 2.27             |
+| As above, in reverse                                    | 149             | 65.68 | 2.27             |
+| "Diagonal" movement across square rooms                 | 71.43/*         | 32.15 | 2.22             |
+| As above, in reverse                                    | 71.43/*         | 32.22 | 2.22             |
+
+/* 30 diagonal movements and 29 straight movements. A diagonal movement *should* be √2 tiles distance (about 1.41).
