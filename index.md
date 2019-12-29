@@ -28,7 +28,7 @@ Mantis Pheromones gave about a 23% boost here, not the advertised 25%.
 
 ### "Realistic" tests (Mantis C)
 
-The "realistic" multi-race tests used Mantis C, running circles from Piloting --> Shields --> Teleporter --> Piloting. Each test was 10 laps, so 240 tiles total movement.
+These tests used Mantis C, running circles from Piloting --> Shields --> Teleporter --> Piloting. Each test was 10 laps, so 240 tiles total movement.
 
 I used timer software with stop/start bound to the FTL pause buttons. Crew movement was continuous with no diversions, pausing only at the end of lap 10. Mantis Pheromones were sold before starting (except when testing the augment itself).
 
@@ -54,7 +54,7 @@ For Mantis Pheromones, I only did 3 tests with a Human:
 
 ### "Synthetic" tests
 
-I recorded these on video. These tests used custom layouts and human crew only (no Pheromones). Each scenario was tested twice (once in each direction).
+I recorded these on video. These tests used custom layouts and Humans only (no Pheromones). Each scenario was tested twice (once in each direction).
 
 | Description                                             | Number of tiles | Time         | Tiles per second |
 |---------------------------------------------------------|-----------------|--------------|------------------|
