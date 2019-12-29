@@ -2,7 +2,7 @@
 
 ## Summary of results
 
-Crew are slowed slightly by doors. To an even smaller extent, they appear to be slowed by changes in direction. Here are the speeds for a Human:
+Crew are slowed slightly by doors (open or closed). To an even smaller extent, they appear to be slowed by changes in direction. Here are the speeds for a Human:
 
 |             | Description                  | Tiles per second | Seconds per tile |
 |:-----------:|:----------------------------:|:----------------:|:----------------:|
@@ -62,6 +62,8 @@ I recorded these on video. These tests used custom layouts and human crew only (
 | (In reverse)                                            | 149             | 65.48 | 2.28             |
 | As above, but with lots of doors                        | 149             | 68.08 | 2.19             |
 | (In reverse)                                            | 149             | 67.79 | 2.20             |
+| As above, but with the doors open                       | 149             |       |                  |
+| (In reverse)                                            | 149             |       |                  |
 | "Maze" with constant changes of direction (and doors)   | 149             | 68.50 | 2.18             |
 | (In reverse)                                            | 149             | 68.54 | 2.17             |
 | Vertical movement with few doors or direction changes   | 149             | 65.46 | 2.27             |
