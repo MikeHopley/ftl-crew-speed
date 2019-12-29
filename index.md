@@ -2,12 +2,12 @@
 
 ## Summary of results
 
-Crew are slowed slightly by doors. To an even smaller extent, they appear to be slowed by changes in direction. Here are the speeds for a human:
+Crew are slowed slightly by doors. To an even smaller extent, they appear to be slowed by changes in direction. Here are the speeds for a Human:
 
-| Human speed                                  | Tiles per second | Seconds per tile |
-|---------------------------------------------:|:----------------:|:----------------:|
-| **Fastest** (few doors or direction changes) | 2.28             | 0.439            |
-| **Slowest** (a maze of doors)                | 2.17             | 0.460            | 
+|             | Description                  | Tiles per second | Seconds per tile |
+|:-----------:|:----------------------------:|:--------------  :|:----------------:|
+| **Fastest** | Straight lines and few doors | 2.28             | 0.439            |
+| **Slowest** | A maze of doors              | 2.17             | 0.460            | 
 
 Possibly as a result of this, the game's description of crew speeds (and Mantis Pheromones) are not quite accurate in "real-world" conditions. The following times are from tests running around the Mantis C:
 
@@ -22,7 +22,7 @@ Possibly as a result of this, the game's description of crew speeds (and Mantis 
 | Crystal | 0.81            | 0.56             | 1.78             |
 | Lanius  | 0.85            | 0.53             | 1.86             |
 
-Mantis Pheromones gave about a 23% boost, not the advertised 25%.
+Mantis Pheromones gave about a 23% boost here, not the advertised 25%.
 
 ## Test methods and data
 
@@ -54,18 +54,19 @@ For Mantis Pheromones, I only did 3 tests with a Human:
 
 ### "Synthetic" tests
 
-I recorded these on video. These tests used custom layouts, human crew only (no Pheromones), and only one test each:
+I recorded these on video. These tests used custom layouts and human crew only (no Pheromones). Each scenario was tested twice: once in each direction.
 
 | Description                                             | Number of tiles | Time  | Tiles per second |
 |---------------------------------------------------------|-----------------|-------|------------------|
 | Horizontal movement with few doors or direction changes | 149             | 65.45 | 2.28             |
+| (In reverse)                                            | 149             | ...   | ...              |
 | As above, but with lots of doors                        | 149             | 68.08 | 2.19             |
-| As above, in reverse                                    | 149             | 67.79 | 2.20             |
+| (In reverse)                                            | 149             | 67.79 | 2.20             |
 | "Maze" with constant changes of direction (and doors)   | 149             | 68.50 | 2.18             |
-| As above, in reverse                                    | 149             | 68.54 | 2.17             |
+| (In reverse)                                            | 149             | 68.54 | 2.17             |
 | Vertical movement with few doors or direction changes   | 149             | 65.46 | 2.27             |
-| As above, in reverse                                    | 149             | 65.68 | 2.27             |
+| (In reverse)                                            | 149             | 65.68 | 2.27             |
 | "Diagonal" movement across square rooms                 | 71.43*          | 32.15 | 2.22             |
-| As above, in reverse                                    | 71.43*          | 32.22 | 2.22             |
+| (In reverse)                                            | 71.43*          | 32.22 | 2.22             |
 
 * 30 diagonal movements and 29 straight movements. A diagonal movement *should* be √2 tiles distance (about 1.41).
