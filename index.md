@@ -59,7 +59,7 @@ I recorded these on video. These tests used custom layouts and human crew only (
 | Description                                             | Number of tiles | Time  | Tiles per second |
 |---------------------------------------------------------|-----------------|-------|------------------|
 | Horizontal movement with few doors or direction changes | 149             | 65.45 | 2.28             |
-| (In reverse)                                            | 149             | ...   | ...              |
+| (In reverse)                                            | 149             | 65.48 | 2.28             |
 | As above, but with lots of doors                        | 149             | 68.08 | 2.19             |
 | (In reverse)                                            | 149             | 67.79 | 2.20             |
 | "Maze" with constant changes of direction (and doors)   | 149             | 68.50 | 2.18             |
