@@ -6,7 +6,7 @@ Crew are slowed slightly by doors (open or closed). To an even smaller extent, t
 
 |             | Description                  | Tiles per second | Seconds per tile |
 |:-----------:|:----------------------------:|:----------------:|:----------------:|
-| **Fastest** | Straight lines and few doors | 2.28             | 0.439            |
+| **Fastest** | Straight lines, few doors | 2.28             | 0.439            |
 | **Slowest** | A maze of doors              | 2.17             | 0.460            | 
 
 Possibly as a result of this, the game's description of crew speeds (and Mantis Pheromones) are not quite accurate in "real-world" conditions. The following times are from tests running around the Mantis C:
