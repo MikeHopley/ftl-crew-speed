@@ -54,7 +54,7 @@ For Mantis Pheromones, I only did 3 tests with a Human:
 
 ### "Synthetic" tests
 
-I recorded these on video. These tests used custom layouts and Humans only (no Pheromones). Each scenario was tested twice (once in each direction).
+I recorded these on video ([main](https://www.youtube.com/watch?v=a481S5b5vDQ), [extra](https://www.youtube.com/watch?v=Z_x1SBK24yo)). These tests used custom layouts and Humans only (no Pheromones). Each scenario was tested twice (once in each direction).
 
 | Description                                             | Number of tiles | Time         | Tiles per second |
 |---------------------------------------------------------|-----------------|--------------|------------------|
