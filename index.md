@@ -1,3 +1,5 @@
+[Mike's FTL stuff](https://mikehopley.github.io/Mikes-FTL-stuff/) > Crew speed measurements
+
 # FTL crew speed measurements
 
 ## Summary of results
